@@ -1,7 +1,7 @@
 import React from "react";
 
 export const Creators = () => {
-  return <div>Creators</div>;
+  return <div>Fozilkhon</div>;
 };
 
 export default Creators;
